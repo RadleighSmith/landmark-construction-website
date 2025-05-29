@@ -1,1 +1,1 @@
-# landmark-construction-website
+![Landmark Construction Logo](docs/logos/logo_with_padding.png)
